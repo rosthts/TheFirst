@@ -9,4 +9,21 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="team2">КОМАНДА 2</string>
+    <string name="team1">КОМАНДА 1</string>
+    <string name="deberts">Деберц</string>
+    <string name="polt">Полтина</string>
+    <string name="terts">Терц</string>
+    <string name="bella">Белла</string>
+    <string name="res1">Итого на слово:</string>
+    <string name="result1">Расчет на слово</string>
+    <string name="res">Итог</string>
+    <string name="next_game">Новая раздача</string>
+
+    <string-array name="players_names">
+        <item>Костя</item>
+        <item>Ната</item>
+        <item>Рост</item>
+        <item>Ира</item>
+    </string-array>
 </resources>
