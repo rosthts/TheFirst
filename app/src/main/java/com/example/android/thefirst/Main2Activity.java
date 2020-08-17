@@ -12,6 +12,7 @@ import android.widget.CheckBox;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.Spinner;
+import android.widget.TextView;
 
 
 public class Main2Activity extends AppCompatActivity {
@@ -47,6 +48,9 @@ public class Main2Activity extends AppCompatActivity {
                 }
             });
         }
-        findViewById(R.id.first_Team_View).findViewById(R.id)
+        TeamLayout firstTeamLayout = findViewById(R.id.first_Team_View);
+        firstTeamLayout.setName("Команда 1");
+        TeamLayout secondTeamLayout = findViewById(R.id.second_Team_View);
+        secondTeamLayout.setName("Команда 2");
     }
 }
