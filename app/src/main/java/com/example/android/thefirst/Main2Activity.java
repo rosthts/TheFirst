@@ -12,6 +12,7 @@ import android.widget.CheckBox;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.Spinner;
+import android.widget.TextView;
 
 
 public class Main2Activity extends AppCompatActivity {
@@ -50,6 +51,7 @@ public class Main2Activity extends AppCompatActivity {
         });
 
         }
-
+        TextView firstCommandNameTextView = findViewById(R.id.comandNameTextView);
+        firstCommandNameTextView.setText(R.string.team1);
 }
 }

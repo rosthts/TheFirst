@@ -26,4 +26,5 @@
         <item>Рост</item>
         <item>Ира</item>
     </string-array>
+    <string name="title_activity_results">results</string>
 </resources>
